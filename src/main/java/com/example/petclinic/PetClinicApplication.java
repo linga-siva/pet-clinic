@@ -10,14 +10,7 @@ public class PetClinicApplication {
         SpringApplication.run(PetClinicApplication.class, args);
         System.out.println("what");
         System.out.println("will it work");
-        try{
-        int divideByZero = 0/3;
-      }
-      catch(Exception e)
-      {
-        System.out.println("divide by zero error");
-
-      }
+      
 
     }
 
