@@ -11,12 +11,11 @@ public class PetClinicApplication {
         System.out.println("what");
         System.out.println("will it work");
         try{
-        int divideByZero = 0/3;
+        int divideByZero = 0/33;
       }
       catch(Exception e)
       {
         System.out.println("divide by zero error");
-
       }
 
     }
