@@ -9,7 +9,7 @@ public class PetClinicApplication {
     public static void main(String[] args) {
         SpringApplication.run(PetClinicApplication.class, args);
         System.out.println("what");
-        System.out.println("checking stuff");
+        System.out.println("will it work");
 
     }
 
