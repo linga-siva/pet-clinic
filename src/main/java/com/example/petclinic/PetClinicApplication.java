@@ -11,7 +11,7 @@ public class PetClinicApplication {
         System.out.println("what");
         System.out.println("will it work");
         try{
-        int divideByZero = 0/33;
+        int divideByZero = 0/100;
       }
       catch(Exception e)
       {
